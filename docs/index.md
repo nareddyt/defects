@@ -4,6 +4,8 @@
 
 For more details and installation, view the Google Play Store listing.
 
+<a href='https://play.google.com/store/apps/details?id=com.tejunareddy.defects&utm_source=website&utm_campaign=researcher&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 ## Privacy Policy
 
 [Click here](privacy-policy.md) to view our Privacy Policy
